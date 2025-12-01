@@ -113,6 +113,7 @@ html, body {
 <br>"Aap ki aankhon me koi ajeeb si khamosh chamak hai jo dekhne wale ko rok leti hai."</div>
   <p>
 نور ہی نور سے مکھڑے پہ وہ نوری آنکھیں
+    
 اس کے انجیل سے چہرے پہ زبوری آنکھیں<p/>
 <button class="btn-next" onclick="nextSection()">Next</button>
 </div>
